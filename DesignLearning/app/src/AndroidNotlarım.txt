@@ -1,0 +1,21 @@
+Uygulamanın adını degistirmek icin :
+AndroidManifest.xml --> android:label="@string/app_name" var
+values --> strings --> <string name="app_name">Pizza</string> burdan degistir.
+
+Uygulama ikonunu değiştirme:
+mipmap
+res -> new > image asset
+
+
+Çoklu ekran destegi icin:
+res -> new -> Android resource directory -> resource type :layout
+resource direcory --> Xlarge (tablet için mesela ) oluştur
+orjinal layoutaki acivity_main.xml kopyala ve layout-xlarge içine yapışır istediğin değişiklikleri yap
+
+çoklu dil desteği için:
+res-> new -> Android resource directory -> resource type :values
+resource directory -->values-tr olsun
+orjinal values --> string kopyala values-tr ye yapıştır
+
+
+

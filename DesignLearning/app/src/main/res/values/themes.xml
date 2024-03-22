@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.DesignLearning" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name = "android:statusBarColor">@color/pizzatypename</item>
+    </style>
+
+    <style name="Theme.DesignLearning" parent="Base.Theme.DesignLearning" />
+</resources>

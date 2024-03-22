@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!--Renkler -->
+
+
+    <color name="pizzayazi">#D9CAAD</color>
+    <color name="pizzaButton">#BF3604</color>
+    <color name ="lightKrem">#F2E2DC</color>
+    <color name="pizzatypename">#8C0303</color>
+    <color name="buttonscolor">#BF3604</color>
+    <color name="darkKrem">#D9B36C</color>
+    <color name="para">#618C03</color>
+    <color name="yazi2">#8C7B6C</color>
+    <color name="yazi1">#563110</color>
+    <color name="background">#FFFFFFFF</color>
+    <color name="text">#323E40</color>
+
+
+
+</resources>
